@@ -1,4 +1,4 @@
-21# EduMind Pro — Backend.
+221# EduMind Pro — Backend.
 
 RAG-powered AI Study Companion Backend  
 **Stack:** Node.js · Express · MongoDB · ChromaDB · Gemini/OpenAI/Ollama
