@@ -5,7 +5,7 @@ RAG-powered AI Study Companion Backend
 
 ---
 
-## Folder Structure
+## *Folder Structure*
 
 ```
 edumind-backend/
