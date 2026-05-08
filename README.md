@@ -49,7 +49,7 @@ edumind-backend/
 
 ---
 
-## *How RAG Works Here*
+## *How RAG Works Here.*
 
 ```
 Student uploads PDF/DOCX
