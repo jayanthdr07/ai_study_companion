@@ -1,4 +1,4 @@
-7654321# *EduMind Pro — Backend*
+87654321# *EduMind Pro — Backend*
 
 RAG-powered AI Study Companion Backend  
 **Stack:** Node.js · Express · MongoDB · ChromaDB · Gemini/OpenAI/Ollama
